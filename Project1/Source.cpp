@@ -12,10 +12,7 @@ void main() {
 
 	int x;
 	int m;
-	scanf_s("x= %d", &x);
-	m = 2 * x;
-	printf("m=\n %d", m);
-
+	printf("8 queens");
 	
 }
 
