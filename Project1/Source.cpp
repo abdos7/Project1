@@ -15,7 +15,7 @@ void main() {
 	scanf_s("x= %d", &x);
 	m = 2 * x;
 	printf("m=\n %d", m);
-
+	printf("|");
 	
 }
 
